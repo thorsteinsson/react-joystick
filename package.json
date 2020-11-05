@@ -33,7 +33,7 @@
   "homepage": "https://github.com/yodahuang/react_joystick#readme",
   "dependencies": {
     "prop-types": "^15.6.1",
-    "nipplejs": "^0.6.8",
+    "nipplejs": "^0.6.8"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
